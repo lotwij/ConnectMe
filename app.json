@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Connect2Me",
-    "slug": "Connect2Me",
+    "name": "ConnectMe",
+    "slug": "ConnectMe",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
